@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="javax.swing.plaf.synth.SynthOptionPaneUI"/>
+    <fullyQualifiedTypeName name="javax.xml.crypto.Data"/>
+    <fullyQualifiedTypeName name="java.lang.Number"/>
+    <fullyQualifiedTypeName name="chap07_object_Ex.NumCheck"/>
+    <fullyQualifiedTypeName name="chap07_object_Ex.RandomUD"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="practice02.Book"/>
+    <fullyQualifiedTypeName name="javax.swing.plaf.basic.BasicMenuBarUI"/>
+    <fullyQualifiedTypeName name="test0810.Student"/>
+    <fullyQualifiedTypeName name="javax.swing.Box"/>
+    <fullyQualifiedTypeName name="chap07_object.Box"/>
+    <fullyQualifiedTypeName name="java.lang.Math"/>
+    <fullyQualifiedTypeName name="chap07_object.MathNum"/>
+    <fullyQualifiedTypeName name="chap07_1_accessB.AccessB"/>
+    <fullyQualifiedTypeName name="chap07_1_accessB.BankAcc"/>
+    <fullyQualifiedTypeName name="chap08_1_inheirt.People"/>
+    <fullyQualifiedTypeName name="chap08_1_inheirt.Worker"/>
+    <fullyQualifiedTypeName name="chap08_1_inheirtAnimal.AnimalCard"/>
+    <fullyQualifiedTypeName name="javax.net.ssl.SSLProtocolException"/>
+    <fullyQualifiedTypeName name="chap08_2_polymo.SportsCar"/>
+    <fullyQualifiedTypeName name="chap08_2_polymo.Worker"/>
+    <fullyQualifiedTypeName name="java.lang.AbstractMethodError"/>
+    <fullyQualifiedTypeName name="chap08_2_abstract.Rectangle"/>
+    <fullyQualifiedTypeName name="chap08_2_abstract.Circle"/>
+    <fullyQualifiedTypeName name="chap08_2_abstract.Animal"/>
+    <fullyQualifiedTypeName name="javax.crypto.ExemptionMechanism"/>
+    <fullyQualifiedTypeName name="chap08_2_abstract.Mammal"/>
+    <fullyQualifiedTypeName name="chap08_2_abstract.Dog"/>
+    <fullyQualifiedTypeName name="chap08_2_abstract.Cat"/>
+    <fullyQualifiedTypeName name="chap09_interface.DisplayTV"/>
+    <fullyQualifiedTypeName name="chap09_interface.Comparable"/>
+    <fullyQualifiedTypeName name="chap09_interface.Student"/>
+    <fullyQualifiedTypeName name="chap09_interface.DisplayInterface"/>
+    <fullyQualifiedTypeName name="chap09_interface.CarOptionInterface"/>
+    <fullyQualifiedTypeName name="chap09_interface.CarInterface"/>
+    <fullyQualifiedTypeName name="chap09_interface.Taxi"/>
+    <fullyQualifiedTypeName name="chap09_interface.Truck"/>
+    <fullyQualifiedTypeName name="chap09_interface.Bus"/>
+    <fullyQualifiedTypeName name="java.lang.reflect.Method"/>
+    <fullyQualifiedTypeName name="java.lang.Override"/>
+    <fullyQualifiedTypeName name="chap10_exception.MyException"/>
+    <fullyQualifiedTypeName name="chap10_exception.GreenException"/>
+    <fullyQualifiedTypeName name="java.lang.Exception"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+</qualifiedTypeNameHistroy>

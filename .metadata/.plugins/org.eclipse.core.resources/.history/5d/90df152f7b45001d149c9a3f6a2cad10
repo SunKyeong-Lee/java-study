@@ -1,0 +1,41 @@
+package practice04;
+
+public class Game {
+	
+	// 부모 클래스
+		// 필드
+		protected String gameTitle;
+		
+		// 생성자
+		// 디폴트 생성자
+		public Game() {
+			this.gameTitle = "미정";
+		}
+		
+		// 매개변수를 갖는 생성자
+		public Game(String gameTitle) {
+			this.gameTitle = gameTitle;
+		}
+		
+		// 메소드
+		// 접근자 : 게임 타이틀을 들고온다. return
+		public String getGameTitle() {
+			return gameTitle;
+		}
+
+		// gameTitle 게임을 시작합니다 출력
+		public void play() {
+			System.out.println(getGameTitle()+" 게임을 시작합니다.");
+		}
+		
+		// gameTitle 게임을 멈춥니다 출력
+		public void stop() {
+			System.out.println(getGameTitle()+" 게임을 멈춥니다.");
+		}
+		
+		// gameTitle 게임을 종료합니다 출력
+		public void end() {
+			System.out.println(getGameTitle()+" 게임을 종료합니다.");
+		}
+
+}

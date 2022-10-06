@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete 15 resources" deleteContents="false" description="Delete 15 resources" element1="/chap01_Hello" element10="/chap08_1_inheirt" element11="/chap08_2_polymo" element12="/chap09_interface" element13="/chap10_exception" element14="/practice" element15="/test" element2="/chap02_var" element3="/chap03_operator" element4="/chap04_If" element5="/chap05_while_for" element6="/chap06_array" element7="/chap07_0_object" element8="/chap07_1_access" element9="/chap07_2_getset" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="15" stamp="1665061636650"/>
+</session>

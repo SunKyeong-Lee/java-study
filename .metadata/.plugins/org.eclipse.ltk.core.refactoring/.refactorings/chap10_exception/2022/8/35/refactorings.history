@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;chap10_exception.MethodTrow&apos; to &apos;MethodThrow&apos;&#x0D;&#x0A;- Original project: &apos;chap10_exception&apos;&#x0D;&#x0A;- Original element: &apos;chap10_exception.MethodTrow&apos;&#x0D;&#x0A;- Renamed element: &apos;chap10_exception.MethodThrow&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;MethodTrow&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;chap10_exception{MethodTrow.java[MethodTrow" matchStrategy="1" name="MethodThrow" qualified="false" references="true" similarDeclarations="false" stamp="1661084051877" textual="false" version="1.0"/>
+</session>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename local variable &apos;cloneBox&apos; in &apos;chap07_object.ObjectClass.main(...)&apos; to &apos;myBox4&apos;&#x0D;&#x0A;- Original project: &apos;chap07_object&apos;&#x0D;&#x0A;- Original element: &apos;chap07_object.ObjectClass.main(String[]).cloneBox&apos;&#x0D;&#x0A;- Renamed element: &apos;cloneBox&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename local variable &apos;cloneBox&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/src&lt;chap07_object{ObjectClass.java[ObjectClass~main~\[QString;@cloneBox!1772!1804!1776!1783!QBox;!0!false" name="myBox4" references="true" stamp="1660457157258" version="1.0"/>
+</session>
